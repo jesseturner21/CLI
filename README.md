@@ -12,9 +12,8 @@ This command line shell program provides an interactive prompt for users to ente
 
 ## Usage
 
-### Interactive Mode
-
-To run the shell in interactive mode, simply execute the program without any command line arguments:
-
+ - To compile and run :
+ 
 ```bash
-./shell
+  gcc cli.c -o cli
+ ./cli
